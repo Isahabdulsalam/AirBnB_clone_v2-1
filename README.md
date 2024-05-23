@@ -157,6 +157,5 @@ No known bugs at this time.
 Isah Abdulsalam - [Github](https://github.com/isahabdulsalam) / [Twitter](https://twitter.com/isahabdulsalam)  
  Bonolo Mashabele- [Github](https://github.com/The1Glitch) / [Twitter](https://twitter.com/earthtojhuang)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
