@@ -114,6 +114,7 @@ class TestFileStorage(unittest.TestCase):
             js = f.read()
         self.assertEqual(json.loads(string), json.loads(js))
 
+
 def test_get(self):
         """Test that get object from db"""
         states = models.storage.all(State).values()
