@@ -1,5 +1,5 @@
-
-bjects that handle all default RestFul API actions for States """
+#!/usr/bin/python3
+""" objects that handle all default RestFul API actions for States """
 from models.state import State
 from models import storage
 from api.v1.views import app_views
